@@ -48,11 +48,10 @@ This makes the data highly interesting for modelling and forecasting.
 
 # Machine Learning Models
 - Linear & polynomial regression  
-- Random forest regression (optional)  
 - Time-series forecasting  
 - Error metrics: MSE, RMSE, MAE  
 
-# Data Visualization**
+# Data Visualization
 - Population curves  
 - Phase portraits  
 - Predator–prey cycles  
